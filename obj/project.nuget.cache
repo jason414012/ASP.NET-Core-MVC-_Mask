@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XV1Jdiv70GDNruaKh32+XntGGg2xSAv5sgSWm+UqSCZI4MJh0X3JCIFixW8g5Jj0NljAOr2VaiVhFpwpF0zS0Q==",
+  "dgSpecHash": "Ojpr1B/yvRexlOZvsohkuue08VsMfdR/AA4SHMGNemKLAHOF2z0BOqeHObVWo2JEHjrQP2NPXDkTq2TIonKtAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hjhuang\\Desktop\\Mask\\Mask.csproj",
+  "projectFilePath": "D:\\MVC_Test\\ASP.NET-Core-MVC-_Mask\\Mask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hjhuang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],
   "logs": []
 }
